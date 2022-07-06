@@ -58,7 +58,7 @@
 * Проволока 1-2mm или спица от велосипеда.
 * Фанера 6mm.
 * ЛДСП 16mm.
-* Накладки на педали я покупал **[здесь](https://aliexpress.ru/item/1005003505176644.html?gatewayAdapt=glo2rus&sku_id=12000026090502777&spm=a2g0s.12269583.0.0.24d251bdbd2Qhi)**.
+* Накладки на педали я покупал **[здесь](https://aliexpress.ru/item/1005003505176644.html?gatewayAdapt=glo2rus&sku_id=12000026090502777&spm=a2g0s.12269583.0.0.24d251bdbd2Qhi)**. Но они мне не особо нравятся.
 * Пружины использовал следующие:
   * Для педали газа **[Диаметр проволоки:2.0mm, Длинна:100mm (2Pcs), Наружныи диаметр:30mm](https://aliexpress.ru/item/4000436939383.html?gatewayAdapt=glo2rus&sku_id=12000020467700623&spm=a2g0s.12269583.0.0.4fc54c973GwjMA)**. <br>
   ![](images/pedals/IMG_20220706_094843.jpg) <br>
@@ -109,6 +109,9 @@
 
 Затем устанавливаем все на корпус.
 ![all-proection](images/pedals/tech-draw/all-proection.svg)
+
+Накладки на педали можно сделать и из фанеры.
+![pedal-pad](pedal-images/pedals/tech-draw/pedal-pad.svg)
 
 На низ я прикрутил куски резины вырезанные из б/у автомобильного коврика.
 ![IMG_20220706_215248](images/pedals/IMG_20220706_215248.jpg)
