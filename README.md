@@ -111,7 +111,7 @@
 ![all-proection](images/pedals/tech-draw/all-proection.svg)
 
 Накладки на педали можно сделать и из фанеры.
-![pedal-pad](pedal-images/pedals/tech-draw/pedal-pad.svg)
+![pedal-pad](images/pedals/tech-draw/pedal-pad.svg)
 
 На низ я прикрутил куски резины вырезанные из б/у автомобильного коврика.
 ![IMG_20220706_215248](images/pedals/IMG_20220706_215248.jpg)
