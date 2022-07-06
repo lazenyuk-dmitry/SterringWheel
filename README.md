@@ -108,7 +108,7 @@
 ![box](images/pedals/tech-draw/box.svg)
 
 Затем устанавливаем все на корпус.
-![all-proection](pdf/Pedals.pdf)
+![all-proection](images/pedals/tech-draw/all-proection.svg)
 
 На низ я прикрутил куски резины вырезанные из б/у автомобильного коврика.
 ![IMG_20220706_215248](images/pedals/IMG_20220706_215248.jpg)
