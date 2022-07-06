@@ -17,14 +17,14 @@
 
 ## Описание файлов проекта
 
-`assets` - содержит импортированные модели.
-`images` - картинки проекта.
-`pdf` - PDF файлы модели.
-`Base.FCStd` - модель базы.
-`PaddleShifter.FCStd` - модель подрулевых лепестков.
-`PaddleShifter-v2.FCStd` - подрулевые лепестки 2 версия.
-`Pedals.FCStd` - модель педалей.
-`Wheel.FCStd` - модель руля.
+* `assets` - содержит импортированные модели.
+* `images` - картинки проекта.
+* `pdf` - PDF файлы модели.
+* `Base.FCStd` - модель базы.
+* `PaddleShifter.FCStd` - модель подрулевых лепестков.
+* `PaddleShifter-v2.FCStd` - подрулевые лепестки 2 версия.
+* `Pedals.FCStd` - модель педалей.
+* `Wheel.FCStd` - модель руля.
 
 В программе *FreeCAD* есть справа панель. В ней ищите папку чертежи.
 ![tech-draw-folder](images/instructions/freecad-tech-draw-folder.png)
@@ -108,7 +108,7 @@
 ![box](images/pedals/tech-draw/box.svg)
 
 Затем устанавливаем все на корпус.
-![all-proection](images/pedals/tech-draw/all-proection.svg)
+![all-proection](pdf/Pedals.pdf)
 
 На низ я прикрутил куски резины вырезанные из б/у автомобильного коврика.
 ![IMG_20220706_215248](images/pedals/IMG_20220706_215248.jpg)
